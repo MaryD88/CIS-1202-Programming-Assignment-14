@@ -25,7 +25,7 @@ int main() {
     cin.ignore();
     
     Vehicle vehicle(manufacturer, yearBuilt);
-    cout << "\nVehicle Information:\n";
+    cout << "Vehicle Information:\n";
     vehicle.displayInfo();
     cout << endl;
     
@@ -55,7 +55,7 @@ int main() {
     cin.ignore();
     
     Truck truck(manufacturer, yearBuilt, towingCapacity);
-    cout << "\nVehicle Information:\n";
+    cout << "Vehicle Information:\n";
     truck.displayInfo();
     cout << endl;
     
