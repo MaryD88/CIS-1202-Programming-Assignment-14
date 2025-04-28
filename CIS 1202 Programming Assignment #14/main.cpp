@@ -40,7 +40,7 @@ int main() {
     cin.ignore();
     
     Car car(manufacturer, yearBuilt, numDoors);
-    cout << "\nVehicle Information:\n";
+    cout << "Vehicle Information:\n";
     car.displayInfo();
     cout << endl;
     
