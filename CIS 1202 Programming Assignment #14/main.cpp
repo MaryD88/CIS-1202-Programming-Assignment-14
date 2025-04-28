@@ -30,7 +30,7 @@ int main() {
     cout << endl;
     
     //Test for Car class
-    cout << "\nCar:\n";
+    cout << "Car:\n";
     cout << "Enter the manufacturer: ";
     getline(cin, manufacturer);
     cout << "Enter the year built: ";
@@ -45,7 +45,7 @@ int main() {
     cout << endl;
     
     //Test for Truck class
-    cout << "\nTruck:\n";
+    cout << "Truck:\n";
     cout << "Enter the manufacturer: ";
     getline(cin, manufacturer);
     cout << "Enter the year built: ";
